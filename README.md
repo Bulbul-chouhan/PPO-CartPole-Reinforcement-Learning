@@ -52,9 +52,7 @@ PPO-CartPole-RL
 Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/PPO-CartPole-RL.git
-
-cd PPO-CartPole-RL
+git clone https://github.com/Bulbul-chouhan/PPO-CartPole-Reinforcement-Learning.git
 ```
 
 Install dependencies
