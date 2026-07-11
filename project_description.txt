@@ -1,0 +1,16 @@
+Project Title:
+PPO-Based Reinforcement Learning Agent for CartPole-v1
+
+Project Description:
+
+This project demonstrates the implementation of the Proximal Policy Optimization (PPO) algorithm using Stable-Baselines3 to solve the CartPole-v1 environment from Gymnasium.
+
+The objective is to train an intelligent agent capable of balancing a pole on a moving cart for the maximum possible duration. During training, the agent continuously improves its policy through trial and error using reinforcement learning techniques.
+
+The trained model achieved:
+
+• Average Reward: 500
+• Maximum Reward: 500
+• Success Rate: 100%
+
+The project also includes performance evaluation, graphical visualization of training rewards, and a live demonstration of the trained agent.

@@ -1,0 +1,13 @@
+
+PPO CartPole-v1 Evaluation Report
+================================
+
+Total Episodes : 100
+
+Average Reward : 500.00
+
+Highest Reward : 500.0
+
+Lowest Reward : 500.0
+
+Success Rate (>475 reward): 100.00%
